@@ -1,0 +1,66 @@
+.header
+{
+  display: flex;
+  justify-content: space-between;
+  background-color: #040714;
+  color: #fff;
+  padding: 2% 0;
+}
+.title
+{
+  margin-left: 1%;
+}
+.btn a
+{
+  color: #fff;
+}
+.buttons{
+  margin-right: 1%;
+  display: flex;
+}
+.button
+{
+  text-decoration: none;
+  color: #fff;
+}
+.container, .home, .loadingContainer, .errorContainer
+{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  min-height: 70vh;
+  margin-bottom: 5%;
+}
+.card
+{
+  margin-top : 5%;
+}
+.footer
+{
+  background-color: #040714;
+  color: rgba(255, 255, 255, 0.322);
+  padding-top:1%;
+}
+.footer p
+{
+  margin-left: 1%;
+}
+.nav-link
+{
+  text-decoration: none;
+  color: #fff;
+}
+.sn 
+{
+  width:10%;
+  display:flex;
+  justify-content: space-around;
+  padding-bottom: 1%;
+  color: #fff;
+}
+.mb-3
+{
+  width:50%;
+  height: 50%;
+  margin-left: 25%;
+}
